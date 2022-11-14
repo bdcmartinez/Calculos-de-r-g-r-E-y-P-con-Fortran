@@ -15,3 +15,4 @@ set xlabel font ",17"
 set ylabel font ",17"
 
 plot "rho vs P.dat" using 1:2 ls 1 notitle
+
